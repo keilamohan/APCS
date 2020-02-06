@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 6 Labs Source Code\Chapter_7"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 6 Examples Source Code\chap06"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 5 Examples Source Code\chap05"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 5 Labs Source Code\Chapter_6"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 4 Examples Sorcecode\chap04"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 4 Lab Sorce Code\Chapter_4"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 2.2 labs source code\Chapter 3 labs source code"/>
+			<item value="C:\Users\kei.moh000\Downloads\Chapter 3 Lab Source Code\Chapter 3 Lab Source Code"/>
+			<item value="C:\Users\kei.moh000\Downloads\chap03\chap03"/>
+			<item value="C:\Users\kei.moh000\Downloads\CH2 Lab Source Code\CH2 Lab Source Code"/>
+			<item value="C:\Users\kei.moh000\Downloads\CH1 Labs Source Code\CH1 Labs Source Code"/>
+			<item value="C:\Users\kei.moh000\Downloads\chap01\chap01"/>
+			<item value="C:\Users\kei.moh000\Downloads\chap02\chap02"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
