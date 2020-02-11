@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ShopStimulate",
+            "request": "launch",
+            "mainClass": "labs.ShopStimulate",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GradingQuizzes",
             "request": "launch",
             "mainClass": "labs.GradingQuizzes",
