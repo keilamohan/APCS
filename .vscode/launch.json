@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GradingQuizzes",
+            "request": "launch",
+            "mainClass": "labs.GradingQuizzes",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
