@@ -1,3 +1,4 @@
+package labs;
 // ****************************************************************
 // Square.java
 //
@@ -18,7 +19,7 @@ public class Square
     //--------------------------------------
     public Square(int size)
     {
-
+      square = new int [size][size];
     }
 
     //--------------------------------------
@@ -26,6 +27,12 @@ public class Square
     //--------------------------------------
     public int sumRow(int row)
     {
+      int rowTotal = 0;
+      for (int i = 0; i < square.length; i++)
+      {
+        rowTotal += square[row][i];
+      }
+      return rowTotal;
 
     }
 
@@ -34,6 +41,12 @@ public class Square
     //--------------------------------------
     public int sumCol(int col)
     {
+      int colTotal = 0;
+      for( int i =0; i< square.length; i++)
+      {
+        colTotal += square [i][col];
+      }
+        return colTotal;
 
     }
 
@@ -42,6 +55,13 @@ public class Square
     //--------------------------------------
     public int sumMainDiag()
     {
+      int sum = 0;
+      for (int i = 0; i < square.length; i++)
+      {
+        sum += square [i][i];
+
+      }
+      return sum;
 
     }
 
@@ -50,6 +70,12 @@ public class Square
     //--------------------------------------
     public int sumOtherDiag()
     {
+      int sum = 0;
+      for (int i = 0; i < square.length; i++)
+      {
+        sum += square[i][square.length - 1 - i];
+      }
+      return sum;
 
     }
 
@@ -59,7 +85,23 @@ public class Square
     //--------------------------------------
     public boolean magic()
     {
+      int sum = sumMainDiag();
+      if(sum != sumOtherDiag())
+      {
+        return false;
 
+      }
+      else
+      {
+        for (int i= 0; i < square.length; i ++)
+        {
+          if (sumCol(i) != sum || sumRow(i) != sum)
+          {
+            return false;
+          }
+        }
+        return true;
+      }
     }
 
     //--------------------------------------
@@ -78,6 +120,15 @@ public class Square
     //--------------------------------------
     public void printSquare()
     {
+      for (int i = 0; i< square.length; i++)
+      {
+        for (int k = 0; k < square.length; k++)
+        {
+          System.out.print(square[i][k]);
+
+        }
+      
+      }
 
     }
 
