@@ -1,0 +1,1197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShopStimulate",
+            "request": "launch",
+            "mainClass": "labs.ShopStimulate",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradingQuizzes",
+            "request": "launch",
+            "mainClass": "labs.GradingQuizzes",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln<Introduction2>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln",
+            "projectName": "Introduction2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln2<Introduction2>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln2",
+            "projectName": "Introduction2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln3<Introduction2>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln3",
+            "projectName": "Introduction2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<Introduction2>",
+            "request": "launch",
+            "mainClass": "helloWorld.HelloWorld",
+            "projectName": "Introduction2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln<Intro>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln",
+            "projectName": "Intro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln2<Intro>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln2",
+            "projectName": "Intro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln3<Intro>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln3",
+            "projectName": "Intro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<Intro>",
+            "request": "launch",
+            "mainClass": "helloWorld.HelloWorld",
+            "projectName": "Intro"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln<chapter 1>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln2<chapter 1>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln2",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lincoln3<chapter 1>",
+            "request": "launch",
+            "mainClass": "examples.Lincoln3",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CSYesPrelab<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.CSYesPrelab",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Hello",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Lab2",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab3<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Lab3",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab4<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Lab4",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab5<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Lab5",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab6<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Lab6",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simple<chapter 1>",
+            "request": "launch",
+            "mainClass": "labs.Simple",
+            "projectName": "chapter 1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Addition<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Addition",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CircleStats<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.CircleStats",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Countdown<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Countdown",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Echo<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Echo",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Facts<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Facts",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Geometry<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Geometry",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IceCream<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.IceCream",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PianoKeys<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.PianoKeys",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Price<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Price",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quadratic<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Quadratic",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomNumbers<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.RandomNumbers",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Roses<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.Roses",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMutation<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.StringMutation",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TempConverter<chapter 2>",
+            "request": "launch",
+            "mainClass": "examples.TempConverter",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Average",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BaseConvert<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.BaseConvert",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Circle<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Circle",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_1<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_1",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_2",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_3<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_3",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_4<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_4",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_5<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_5",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_6<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Lab2_6",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LabGrade<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.LabGrade",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Names<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Names",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Paint<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Paint",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PlusTest<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.PlusTest",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Questions1_4<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Questions1_4",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Trace<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.Trace",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-errors<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs1.errors",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Deli<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Deli",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Distance<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Distance",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2_1<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Lab2_2_1",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2_2<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Lab2_2_2",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2_3<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Lab2_2_3",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2_4<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Lab2_2_4",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lab2_2_5<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.Lab2_2_5",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LuckyNumbers<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.LuckyNumbers",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedPanels<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.NestedPanels",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RightTriangle<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.RightTriangle",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringManips<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.StringManips",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringPlay<chapter 2>",
+            "request": "launch",
+            "mainClass": "labs2.StringPlay",
+            "projectName": "chapter 2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Age<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Age",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Average",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Counter",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter2<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Counter2",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExamGrades<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.ExamGrades",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Forever<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Forever",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guessing<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Guessing",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IceCreamShop<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.IceCreamShop",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinOfThree<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.MinOfThree",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiples<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Multiples",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PalindromeTester<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.PalindromeTester",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stars<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Stars",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-URLDissector<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.URLDissector",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Wages<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.Wages",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WinPercentage<chapter 3>",
+            "request": "launch",
+            "mainClass": "examples.WinPercentage",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BaseballStats<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.BaseballStats",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChargeAccount<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.ChargeAccount",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Count",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dates<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Dates",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Election<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Election",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenOdd<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.EvenOdd",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Factorials<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Factorials",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Grades<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Grades",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guess<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Guess",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyDays<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.LazyDays",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LoveCS<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.LoveCS",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PowersOf2<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.PowersOf2",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rock<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Rock",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Runs<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Runs",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Salary<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Salary",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StyleOptions<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.StyleOptions",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Temps<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.Temps",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VoteCounter<chapter 3>",
+            "request": "launch",
+            "mainClass": "labs.VoteCounter",
+            "projectName": "chapter 3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Banking<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.Banking",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountFlips<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.CountFlips",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlipRace<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.FlipRace",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PigLatin<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.PigLatin",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RationalNumbers<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.RationalNumbers",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SnakeEyes<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.SnakeEyes",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentBody<chapter 4>",
+            "request": "launch",
+            "mainClass": "examples.StudentBody",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BMI<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.BMI",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BandTester<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.BandTester",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoxCars<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.BoxCars",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Grades<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.Grades",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ManageAccounts<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.ManageAccounts",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestNames<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.TestNames",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VoteCounter<chapter 4>",
+            "request": "launch",
+            "mainClass": "labs.VoteCounter",
+            "projectName": "chapter 4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountInstances<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.CountInstances",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenOdd<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.EvenOdd",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fahrenheit<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.Fahrenheit",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MiniQuiz<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.MiniQuiz",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ParameterPassing<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.ParameterPassing",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-References<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.References",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Throwing<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.Throwing",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Zero<chapter 5>",
+            "request": "launch",
+            "mainClass": "examples.Zero",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChangingPeople<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.ChangingPeople",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Comparisons<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.Comparisons",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MiniQuiz<chapter 5>(1)",
+            "request": "launch",
+            "mainClass": "labs.MiniQuiz",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProcessTransactions<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.ProcessTransactions",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Telephone<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.Telephone",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAccount<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.TestAccount",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAccounts1<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.TestAccounts1",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestWalk<chapter 5>",
+            "request": "launch",
+            "mainClass": "labs.TestWalk",
+            "projectName": "chapter 5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicArray<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.BasicArray",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DestinysChild<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.DestinysChild",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindGrade<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.FindGrade",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GradeRange<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.GradeRange",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guests<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.Guests",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LetterCount<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.LetterCount",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NameTag<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.NameTag",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Primes<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.Primes",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuoteOptions<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.QuoteOptions",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Recipe<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.Recipe",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseOrder<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.ReverseOrder",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SodaSurvey<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.SodaSurvey",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortGrades<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.SortGrades",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortPhoneList<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.SortPhoneList",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StyleOptions<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.StyleOptions",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Tunes<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.Tunes",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoDArray<chapter 6>",
+            "request": "launch",
+            "mainClass": "examples.TwoDArray",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Circles<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.Circles",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ColorOptions<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.ColorOptions",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DrawPerson<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.DrawPerson",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntegerListTest<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.IntegerListTest",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MoveStickMan<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.MoveStickMan",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Parameters<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.Parameters",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseArray<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.ReverseArray",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sales<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.Sales",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shop<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.Shop",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SquareTest<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.SquareTest",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<chapter 6>",
+            "request": "launch",
+            "mainClass": "labs.test",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Age<chapter3>",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<chapter3>",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<chapter3>",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter2<chapter3>",
+            "request": "launch",
+            "mainClass": "Counter2",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExamGrades<chapter3>",
+            "request": "launch",
+            "mainClass": "ExamGrades",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Forever<chapter3>",
+            "request": "launch",
+            "mainClass": "Forever",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guessing<chapter3>",
+            "request": "launch",
+            "mainClass": "Guessing",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IceCreamShop<chapter3>",
+            "request": "launch",
+            "mainClass": "IceCreamShop",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinOfThree<chapter3>",
+            "request": "launch",
+            "mainClass": "MinOfThree",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiples<chapter3>",
+            "request": "launch",
+            "mainClass": "Multiples",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PalindromeTester<chapter3>",
+            "request": "launch",
+            "mainClass": "PalindromeTester",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stars<chapter3>",
+            "request": "launch",
+            "mainClass": "Stars",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-URLDissector<chapter3>",
+            "request": "launch",
+            "mainClass": "URLDissector",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Wages<chapter3>",
+            "request": "launch",
+            "mainClass": "Wages",
+            "projectName": "chapter3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WinPercentage<chapter3>",
+            "request": "launch",
+            "mainClass": "WinPercentage",
+            "projectName": "chapter3"
+        }
+    ]
+}

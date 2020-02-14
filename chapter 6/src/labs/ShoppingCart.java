@@ -1,3 +1,4 @@
+package labs;
 // **********************************************************************
 //   ShoppingCart.java
 //
@@ -11,6 +12,9 @@ public class ShoppingCart
     private int itemCount;      // total number of items in the cart
     private double totalPrice;  // total price of items in the cart
     private int capacity;       // current cart capacity
+    private Item[] cart;
+
+
 
     // -----------------------------------------------------------
     //  Creates an empty shopping cart with a capacity of 5 items.
@@ -19,14 +23,19 @@ public class ShoppingCart
     {
 	capacity = 5;
 	itemCount = 0;
-	totalPrice = 0.0;
+    totalPrice = 0.0;
+    cart = new Item[capacity];
     }
 
     // -------------------------------------------------------
     //  Adds an item to the shopping cart.
     // -------------------------------------------------------
-    public void addToCart(String itemName, double price, int quantity)
+    public void addToCart(Item item, String itemName, double price, int quantity)
     {
+    
+        cart[itemCount] = item;
+        totalPrice += quantity * price;
+        itemCount+=1;
     }
 
     // -------------------------------------------------------
@@ -46,7 +55,7 @@ public class ShoppingCart
 	contents += "\nTotal Price: " + fmt.format(totalPrice);
 	contents += "\n";
 
-	return contents;
+    return contents;
     }
 
     // ---------------------------------------------------------
@@ -54,5 +63,16 @@ public class ShoppingCart
     // ---------------------------------------------------------
     private void increaseSize()
     {
+        Item[] temp = new Item[cart.length];
+
+        for (int i = 0; i < cart.length; i++)
+        {
+            temp[i] = cart[i];
+        }
+        cart = new Item [3 + cart.length];
+        for (int i = 0; i < temp.length; i++)
+        {
+            cart[i] = temp[i];
+        }
     }
 }
