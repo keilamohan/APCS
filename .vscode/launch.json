@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MostFrequentRunner",
+            "request": "launch",
+            "mainClass": "labs.MostFrequentRunner",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hi",
+            "request": "launch",
+            "mainClass": "labs.Hi",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ShopStimulate",
             "request": "launch",
             "mainClass": "labs.ShopStimulate",
