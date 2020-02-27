@@ -6,9 +6,23 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - DogTest",
             "request": "launch",
             "mainClass": "labs.DogTest"
+=======
+            "name": "CodeLens (Launch) - MostFrequentRunner",
+            "request": "launch",
+            "mainClass": "labs.MostFrequentRunner",
+            "projectName": "chapter 6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hi",
+            "request": "launch",
+            "mainClass": "labs.Hi",
+            "projectName": "chapter 6"
+>>>>>>> 929bc216e14ef363624ec26e583170792a8011b7
         },
         {
             "type": "java",
