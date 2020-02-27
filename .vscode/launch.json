@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DogTest",
+            "request": "launch",
+            "mainClass": "labs.DogTest"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ShopStimulate",
             "request": "launch",
             "mainClass": "labs.ShopStimulate",
