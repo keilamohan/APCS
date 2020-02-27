@@ -9,22 +9,27 @@ public class SortedIntList extends IntList
     {
 	if (numElements == list.length)
 	    System.out.println("Can't add, list is full");
-	else
-	    {
-            for (int i = 0; numElements(i) >= value; i++)
-            {
-                newList=x[0];
-                n = numElements.getSize() +1;
-                for(int j=0;i<n-1;j++)
-                {
-                    x[j]=x[j+1];
-                }
-                x[j] =newList;
-            }
-                list[numElements] = value;
-                numElements++;
-            }
+    else
+    {
 
-	    }
+	    {
+
+            for (int i = 0; i < numElements; i++)
+            {
+                if (list[i] >= value)
+                {
+                    for(int j = numElements; j > i; j--)
+                    {
+                        list[j] = list[j-1];
+                    }
+                }
+
+            }
+            list[numElements] = value;
+            numElements++;
+        }
+        
     }
 }
+}
+    
