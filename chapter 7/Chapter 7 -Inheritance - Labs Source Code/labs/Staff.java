@@ -13,7 +13,7 @@ public class Staff
    //-----------------------------------------------------------------
    public Staff ()
    {
-      staffList = new StaffMember[6];
+      staffList = new StaffMember[8];
 
       staffList[0] = new Executive ("Sam", "123 Main Line",
          "555-0469", "123-45-6789", 2423.07);
@@ -22,6 +22,12 @@ public class Staff
          "555-0101", "987-65-4321", 1246.15);
       staffList[2] = new Employee ("Woody", "789 Off Rocker",
          "555-0000", "010-20-3040", 1169.23);
+
+
+      staffList[6] = new Commission ("Keila", "811 Ready Creek",
+         "888-000", "888-88-8888", 6.25, .2);
+      staffList[7] = new Commission ("Tara", "777 Reddy Creak",
+         "999-000", "999-99-9999", 9.75, .15);
 
       staffList[3] = new Hourly ("Diane", "678 Fifth Ave.",
          "555-0690", "958-47-3625", 10.55);
@@ -34,6 +40,12 @@ public class Staff
       ((Executive)staffList[0]).awardBonus (500.00);
 
       ((Hourly)staffList[3]).addHours (40);
+
+      ((Commission)staffList[6]).addHours(35);
+      ((Commission)staffList[6]).addSales(400);
+      
+      ((Commission)staffList[7]).addHours(40);
+      ((Commission)staffList[7]).addSales(950);
    }
 
    //-----------------------------------------------------------------
