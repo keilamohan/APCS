@@ -20,13 +20,26 @@ public class Player
 
     public void readPlayer()
     {
-	Scanner scan = new Scanner(System.in);
-	System.out.print("Name: ");
-	name = scan.nextLine();
-	System.out.print("Team: ");
-	team = scan.nextLine();
-	System.out.print("Jersey number: ");
-	jerseyNumber = scan.nextInt();
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Name: ");
+        name = scan.nextLine();
+        System.out.print("Team: ");
+        team = scan.nextLine();
+        System.out.print("Jersey number: ");
+        jerseyNumber = scan.nextInt();
+    }
+
+
+    public boolean equals(Player other)
+    {
+        if (team.equalsIgnoreCase(other.team) && jerseyNumber == other.jerseyNumber)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
 }
