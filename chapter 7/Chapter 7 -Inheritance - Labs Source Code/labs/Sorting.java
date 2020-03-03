@@ -40,8 +40,8 @@ public class Sorting
          Comparable key = list[index];
          int position = index;
 
-         //  Shift larger values to the right
-         while (position > 0 && key.compareTo(list[position-1]) < 0)
+         //shift smaller values to the right
+         while (position > 0 && key.compareTo(list[position-1]) > 0)
          {
             list[position] = list[position-1];
             position--;
