@@ -24,6 +24,8 @@ public class MagpieRunner5
 			System.out.println (maggie.getResponse(statement));
 			statement = in.nextLine();
 		}
+
+		System.out.print("The answer is:  " + 5 + 19);
 	}
 
 }
